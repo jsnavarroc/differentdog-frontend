@@ -4,10 +4,6 @@
 
 > yarn start 
 
-## 2. Instructions to run the unit test:
-
-> yarn test
-
 
 <p align="center">
     <img src="./assets/Test5.gif" width="100%" alt="option 1">
