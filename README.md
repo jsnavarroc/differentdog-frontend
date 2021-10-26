@@ -4,7 +4,3 @@
 
 > yarn start 
 
-
-<p align="center">
-    <img src="./assets/Test5.gif" width="100%" alt="option 1">
-</p>
